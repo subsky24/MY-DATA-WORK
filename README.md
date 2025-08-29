@@ -37,5 +37,5 @@ Exploratory Data Analysis
 - How do sales vary over time (monthly/weekly)?
 - What is the contribution of each region to category sales?
 
- ###Analysis
+ Analysis
 
