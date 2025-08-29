@@ -36,3 +36,6 @@ Exploratory Data Analysis
 - Which product categories and products drive the most revenue?
 - How do sales vary over time (monthly/weekly)?
 - What is the contribution of each region to category sales?
+
+ Analysis
+ 
