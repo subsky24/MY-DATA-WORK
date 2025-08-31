@@ -44,8 +44,8 @@ Recommendation and findings
  1. Regional Strategy:
        North region appears to lead in sales volume and revenue. 
          Recommendation: Strengthen distribution and customer engagement in the North since it’s a proven high-demand market.
-           West region lags behind. 
-             Recommendation: Introduce targeted promotions, discount campaigns, or additional training for sales reps in the West to 
+         West region lags behind. 
+         Recommendation: Introduce targeted promotions, discount campaigns, or additional training for sales reps in the West to 
              boost performance
               
   2.   Product Category Focus:
