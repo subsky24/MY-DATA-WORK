@@ -38,11 +38,11 @@ Exploratory Data Analysis
 - What is the contribution of each region to category sales?
 
  Analysis
-  https://github.com/subsky24/MY-DATA-WORK/commit/56b89de909354c0c25769442a7c61e3829ee289d#diff-894fbc742bcbefc65d55b5b7a5e2c5efb21754cd875cdee22a63ef02062fed15
+  SalesData_Pivot_Practice.et
 
-Recommendation and findings 
- 1. Regional Strategy:
-       North region appears to lead in sales volume and revenue. 
+  ###Recommendation and findings 
+ 1.    Regional Strategy:
+         North region appears to lead in sales volume and revenue. 
          Recommendation: Strengthen distribution and customer engagement in the North since it’s a proven high-demand market.
          West region lags behind. 
          Recommendation: Introduce targeted promotions, discount campaigns, or additional training for sales reps in the West to 
