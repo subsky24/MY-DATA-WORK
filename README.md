@@ -38,7 +38,7 @@ Exploratory Data Analysis
 - What is the contribution of each region to category sales?
 
  Analysis
- SalesData_Pivot_Practice.et
+ "C:\Users\Adebowale Samuel\OneDrive\Desktop\SalesData_Pivot_Practice.et"
 
 Recommendation and findings 
  1. Regional Strategy:
