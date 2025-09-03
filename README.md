@@ -8,7 +8,7 @@ Data Sources
 The primary source of data is sales data.csv ,and this is an open source data.
 
  Dataset Description
-= Source: Simulated dataset for practice purposes
+- Source: Simulated dataset for practice purposes
 - Size: 120 rows of sales transactions
 - Time Period: January–February 2025
 - Fields Included:
@@ -40,31 +40,34 @@ Exploratory Data Analysis
  - https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(206).png
  - https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(208).png
  - https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(209).png
+ - https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(210).png
    
-
-
-  ### Recommendation and findings 
+ ### Recommendation and findings 
  1.   Regional Strategy
       - North region appears to lead in sales volume and revenue.-
       - Recommendation: Strengthen distribution and customer engagement in the North since it’s a proven high-demand market. West region 
          lags behind.
       - Recommendation: Introduce targeted promotions, discount campaigns, or additional training for sales reps in the 
-        West to boost performance 
+        West to boost performance
+
+  2.   Time-Based Insights: Sales peak mid-January but drop off towards late February.
+       - Recommendation: Plan seasonal promotions around early and mid-month when demand is highest. Consider loyalty programs to 
+         maintain momentum during slow weeks. 
               
-  3.   Product Category Focus:
+  4.   Product Category Focus:
        - Electronics dominate overall revenue (high-priced items like laptops and smartphones).
        - Recommendation: Increase inventory for fast-moving electronics and explore bundling strategies (e.g., Laptop + Headphones 
           packages).
        - Stationery has high unit sales but low revenue contribution.
        - Recommendation: Position stationery as an upsell/cross-sell with electronics or furniture to increase average order value.
  
-  4.   Salesperson Performance:
+  5.   Salesperson Performance:
        - James and Grace are consistent top performers.
        - Recommendation: Recognize and reward them to sustain motivation. Also, share their best practices across the team.
          Sarah’s sales are weaker in some regions.
        - Recommendation: Provide mentorship, product training, and regional support to help her improve.
    
-   5.   Time-Based Insights:
+   6.   Time-Based Insights:
         - Sales peak mid-January but drop off towards late February.
         - Recommendation: Plan seasonal promotions around early and mid-month when demand is highest. Consider loyalty programs to 
           maintain momentum during slow weeks.
