@@ -40,13 +40,13 @@ Exploratory Data Analysis
  Analysis
  https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(205).png
 
-  ###Recommendation and findings 
+  ### Recommendation and findings 
  1.    Regional Strategy:
          North region appears to lead in sales volume and revenue. 
-         Recommendation: Strengthen distribution and customer engagement in the North since it’s a proven high-demand market.
-         West region lags behind. 
+          Recommendation: Strengthen distribution and customer engagement in the North since it’s a proven high-demand market.
+          West region lags behind. 
          Recommendation: Introduce targeted promotions, discount campaigns, or additional training for sales reps in the West to 
-             boost performance
+         boost performance
               
   2.   Product Category Focus:
           Electronics dominate overall revenue (high-priced items like laptops and smartphones).
@@ -54,13 +54,15 @@ Exploratory Data Analysis
           packages).
           Stationery has high unit sales but low revenue contribution.
             Recommendation: Position stationery as an upsell/cross-sell with electronics or furniture to increase average order value.
+ 
   3.   Salesperson Performance:
           James and Grace are consistent top performers.
             Recommendation: Recognize and reward them to sustain motivation. Also, share their best practices across the team.
           Sarah’s sales are weaker in some regions.
             Recommendation: Provide mentorship, product training, and regional support to help her improve.
+   
    4.   Time-Based Insights:
           Sales peak mid-January but drop off towards late February.
-            Recommendation: Plan seasonal promotions around early and mid-month when demand is highest. Consider loyalty programs to 
+        Recommendation: Plan seasonal promotions around early and mid-month when demand is highest. Consider loyalty programs to 
             maintain momentum during slow weeks.
 
