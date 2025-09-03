@@ -38,7 +38,7 @@ Exploratory Data Analysis
 - What is the contribution of each region to category sales?
 
  Analysis
-  https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(205).png
+ https://github.com/subsky24/MY-DATA-WORK/blob/main/Screenshot%20(205).png
 
   ###Recommendation and findings 
  1.    Regional Strategy:
