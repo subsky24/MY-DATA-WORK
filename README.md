@@ -2,10 +2,10 @@
 ## Project Topic : Sales Performance Analysis 
 
 Project Overview
-The goal of this project is to analyze sales data across multiple dimensions — region, salesperson, product category, and time — in order to uncover performance trends, identify top contributors, and highlight areas for improvement. PivotTables and charts are used to transform raw data into actionable insights.
+- The goal of this project is to analyze sales data across multiple dimensions — region, salesperson, product category, and time — in order to uncover performance trends, identify top contributors, and highlight areas for improvement. PivotTables and charts are used to transform raw data into actionable insights.
 
 Data Sources 
-The primary source of data is sales data.csv ,and this is an open source data.
+- The primary source of data is sales data.csv ,and this is an open source data.
 
  Dataset Description
 - Source: Simulated dataset for practice purposes
